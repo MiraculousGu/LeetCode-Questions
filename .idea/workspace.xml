@@ -1,38 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b7427cd-6869-41a8-bb6b-e20fcb7e3e24" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/.idea/Leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Longest Palindromic Substring/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/ReverseInteger/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/ReverseInteger/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/ReverseInteger/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/ReverseInteger/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/ReverseInteger/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/ReverseInteger/src/Solution.java" afterDir="false" />
+    <list default="true" id="5b7427cd-6869-41a8-bb6b-e20fcb7e3e24" name="Changes" comment="test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/Longest Palindromic Substring/Longest Palindromic Substring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Longest Palindromic Substring/Longest Palindromic Substring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/Longest Palindromic Substring/src/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/LongestSubstring/LongestSubstring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/LongestSubstring/LongestSubstring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/LongestSubstring/src/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/LongestSubstring/src/LongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/LongestSubstring/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/LongestSubstring/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/Median of Two Sorted Arrays/Median of Two Sorted Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Median of Two Sorted Arrays/Median of Two Sorted Arrays.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/Median of Two Sorted Arrays/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/Median of Two Sorted Arrays/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/MergeSortedArray/MergeSortedArray.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/MergeSortedArray/MergeSortedArray.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/MergeSortedArray/src/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/MergeSortedArray/src/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/out/production/LongestSubstring/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/LongestSubstring/LongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/out/production/LongestSubstring/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/LongestSubstring/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/out/production/Median of Two Sorted Arrays/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/Median of Two Sorted Arrays/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Questions/out/production/MergeSortedArray/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/MergeSortedArray/Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Tianrun Gu &lt;tianrun@dhcp-10-5-18-2.wireless.rochester.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zh7cWYx83tbnwRlqn0FdZQVUUC" />
@@ -97,6 +72,21 @@
       <option name="presentableId" value="Default" />
       <updated>1634588547225</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1638308735794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638308735794</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1638308815471</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638308815471</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +100,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

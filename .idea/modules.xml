@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Leetcode.iml" filepath="$PROJECT_DIR$/.idea/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Algorithm/MoveZeros/MoveZeros.iml" filepath="$PROJECT_DIR$/Algorithm/MoveZeros/MoveZeros.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Repeated Substring Pattern/Repeated Substring Pattern.iml" filepath="$PROJECT_DIR$/Algorithm/Repeated Substring Pattern/Repeated Substring Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/SQL/SQL.iml" filepath="$PROJECT_DIR$/SQL/SQL.iml" />
     </modules>

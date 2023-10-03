@@ -4,19 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b7427cd-6869-41a8-bb6b-e20fcb7e3e24" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Repeated Substring Pattern/Repeated Substring Pattern.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Repeated Substring Pattern/src/KMPSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Repeated Substring Pattern/src/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/Repeated Substring Pattern/src/Test.java" afterDir="false" />
+    <list default="true" id="5b7427cd-6869-41a8-bb6b-e20fcb7e3e24" name="Changes" comment="finish implementing &quot;KMP&quot; algorithm">
+      <change afterPath="$PROJECT_DIR$/Algorithm/MoveZeros/MoveZeros.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/MoveZeros/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm/MoveZeros/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Solution__1_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_30_16_46_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_30_16_46__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Test.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Repeated Substring Pattern/KMPSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/Repeated Substring Pattern/KMPSolution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Repeated Substring Pattern/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/Repeated Substring Pattern/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Repeated Substring Pattern/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/out/production/Repeated Substring Pattern/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +55,10 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "18",
+    "jdk.selected.JAVA_MODULE": "21",
     "last_opened_file_path": "/Users/tgu/Library/CloudStorage/GoogleDrive-miraculousgu@gmail.com/My Drive/Learning/Leetcode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,7 +86,7 @@
       <updated>1634588547225</updated>
       <workItem from="1696290046537" duration="2185000" />
       <workItem from="1696297624355" duration="849000" />
-      <workItem from="1696298656750" duration="3133000" />
+      <workItem from="1696298656750" duration="3576000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1638308735794</created>
@@ -103,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1638308815471</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish implementing &quot;KMP&quot; algorithm">
+      <option name="closed" value="true" />
+      <created>1696302272773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696302272773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,7 +130,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="finish implementing &quot;KMP&quot; algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish implementing &quot;KMP&quot; algorithm" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
